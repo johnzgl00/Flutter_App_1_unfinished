@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546630294113",
+    "project_id": "senlog-17e04",
+    "storage_bucket": "senlog-17e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546630294113:android:a3c4a787d97e2d6cfa2820",
+        "android_client_info": {
+          "package_name": "com.hacklog.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546630294113-5nb9vul2u6h4nr1k0kep0cfttdcc34kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb4ln7gK_qE5myJz_Z5Ee8ztxfGcNgmn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546630294113-5nb9vul2u6h4nr1k0kep0cfttdcc34kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
